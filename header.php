@@ -23,6 +23,6 @@
 <!--<![endif]-->
 
 
-	<header class="header">
-		<h1>Testing!</h1>
+	<header class="header container-fluid" style="background: red;">
+		<h1>Hello world!</h1>
 	</header>
